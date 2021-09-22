@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shrutidewan&hide_border=true&background=090C10&sideNums=FE5454&fire=FE5454&stroke=4C71F1&currStreakLabel=FFFFFF&dates=4C71F1&sideLabels=FFFFFF&ring=FE5454&currStreakNum=FE5454)](https://github.com/shrutidewan)
+
+
 <!--
 **shrutidewan/shrutidewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
